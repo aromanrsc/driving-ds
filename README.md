@@ -7,7 +7,7 @@ Data was collected via the OBD-II port on a VW Passat auto vehicle using the OBD
 <img src="https://github.com/aromanrsc/driving-ds/blob/main/driving-ds-description.png" width="600"/>
 
 # Citation
-If you use the code or the dataset for your research, please cite the paper:
+If you use the dataset for your research, please cite the paper:
 ```
 @article{roman2023evaluating,
   title={Evaluating the Privacy and Utility of Time-Series Data Perturbation Algorithms},
